@@ -6,3 +6,7 @@ The markdown editor within itch.io was vulnerable to XSS in edit mode. When a us
 
 > Attacker creates malicious project -> Sends admin invite to victim -> victim accepts (one-click) -> payload executes -> Attacker GitHub account linked to victim account.
 ## Demo
+
+
+https://github.com/user-attachments/assets/99b2f9ff-be44-4d2a-80e4-ad0f96c3722c
+
